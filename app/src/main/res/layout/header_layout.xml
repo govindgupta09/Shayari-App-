@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/red_light"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/logoshayari"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shayari Lovers 2022..!"
+        android:fontFamily="@font/arya_bold"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:textSize="22sp"
+        android:textColor="@color/black"/>
+
+</LinearLayout>

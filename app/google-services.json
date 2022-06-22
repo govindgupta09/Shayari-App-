@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829782797452",
+    "project_id": "shayari-lover-938af",
+    "storage_bucket": "shayari-lover-938af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829782797452:android:fe16df28054d0bfb8cdfa9",
+        "android_client_info": {
+          "package_name": "com.govi.shayarilover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829782797452-ijji92eclo98eko0kuqul56bkmom8v6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UMqxCj9T2j55UWhrSnlobsH-4yymMRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829782797452-ijji92eclo98eko0kuqul56bkmom8v6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
